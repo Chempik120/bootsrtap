@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+
+.navbar-brand{
+    margin-right: 465px;
+    padding-left: 90px;
+    margin-top: 0px;
+}
+
+.nav-item:not(:last-child){
+margin-right: 114px;
+}
+
+.collapse{
+    margin-top: 0px;
+}
