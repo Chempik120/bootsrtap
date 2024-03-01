@@ -280,6 +280,19 @@ margin-top: 20px;
     margin-bottom: 184px;
 }
 
+.after{
+    color: var(--second-text, #737373);
+
+/* H4 */
+font-family: Montserrat;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 38px; /* 158.333% */
+letter-spacing: 0.2px;
+width: 462px;
+}
+
 .ordering{
     background-image: url(./images/order.png);
     background-repeat: no-repeat;
